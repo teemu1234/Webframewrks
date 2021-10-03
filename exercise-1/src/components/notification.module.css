@@ -1,0 +1,23 @@
+.header{
+    font-size: 0.70cm;
+    font-weight: 800;
+}
+.header_back{
+    background-color: lightblue;
+    align-items: center;
+    min-width: 762px;
+    max-width: 1110px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 5cm;
+    margin-right: 5.20cm;
+    margin-top: 0.2cm;
+    margin-bottom: 2px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.header_small{
+    font-size: 0.70cm;
+    font-weight: 600;
+    margin-left: 0.5cm;
+}
